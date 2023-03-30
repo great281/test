@@ -1,4 +1,4 @@
-CFLAGS = -Wall -Werror
+CFLAGS = -Wall -Werror -I src
 CPPFLAGS = -MMD
 MAINWAY = src/geometry/
 GEOMETRYWAY = src/libgeometry/
